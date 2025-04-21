@@ -1,3 +1,5 @@
+This fork is for testing and is in developent.
+
 This is an unofficial AppImage that bundles the following KDE utilities from Arch Linux using JuNest!
 
 ```
