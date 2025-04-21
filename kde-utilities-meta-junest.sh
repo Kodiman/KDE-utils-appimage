@@ -286,7 +286,7 @@ echo "
     sweeper
     telly-skout
 ";;
-ark|filelight|francis|isoimagewriter|kalm|kate|kbackup|kcalc|kcharselect|kclock|kdebugsettings|kdf|kdialog|keditbookmarks|keysmith|kfind|kgpg|kongress|krecorder|kteatime|ktimer|ktrip|kweather|kwrite|skanpage|sweeper|telly-skout)
+ark|filelight|francis|isoimagewriter|kalm|kate|kbackup|kcalc|kcharselect|kclock|kdebugsettings|kdf|kdialog|keditbookmarks|keysmith|kfind|kgpg|kongress|krecorder|kteatime|ktimer|ktrip|kweather|kwrite|skanpage|sweeper|telly-skout|kcron)
 _JUNEST_CMD -- "$@"
 ;;
 *)
