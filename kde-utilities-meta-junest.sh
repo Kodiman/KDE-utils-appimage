@@ -4,7 +4,7 @@ APP=kde-utilities-meta
 BIN="$APP" #CHANGE THIS IF THE NAME OF THE BINARY IS DIFFERENT FROM "$APP" (for example, the binary of "obs-studio" is "obs")
 kde_meta="ark filelight francis isoimagewriter kalm kate kbackup kcalc kcharselect kclock \
 kdebugsettings kdf kdialog keditbookmarks keysmith kfind kgpg kongress krecorder kteatime \
-ktimer ktrip kweather skanpage sweeper telly-skout kcron"
+ktimer ktrip kweather skanpage sweeper telly-skout kcron dolphin ksystemlog partitionmanager"
 DEPENDENCES="$kde_meta arj dbus lrzip lzop p7zip unarchiver unrar \
 karchive kcoreaddons kcrash ki18n kiconthemes kwidgetsaddons solid \
 kcmutils kcompletion kconfig kconfigwidgets ki18n kio kjobwidgets kstatusnotifieritem kxmlgui \
